@@ -1,8 +1,8 @@
 ---
 company: "SmartPipl"
 role: "Web Developer"
-dateStart: "2018-03-01"
-dateEnd: "2019-08-01"
+dateStart: "2015-09-01"
+dateEnd: "2017-07-01"
 ---
 
 - Creating websites using Wordpress and PHP
